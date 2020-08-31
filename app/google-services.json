@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931385895218",
+    "firebase_url": "https://social-media-89759.firebaseio.com",
+    "project_id": "social-media-89759",
+    "storage_bucket": "social-media-89759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931385895218:android:c3c29657146f56b4378f2b",
+        "android_client_info": {
+          "package_name": "com.nabil.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931385895218-ps4uq9ekmejn3uqpfh2oa9tt4obtnol6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nabil.instagram",
+            "certificate_hash": "2a4dde306fbe60915721d4c2e1feb05f4f4725ab"
+          }
+        },
+        {
+          "client_id": "931385895218-1fhv9evrju6tum9c1f8s7f4ed40cc21f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAONz8qR3puTCh4ShNArqtMty6Nx5FSG0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931385895218-1fhv9evrju6tum9c1f8s7f4ed40cc21f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
